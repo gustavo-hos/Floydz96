@@ -2,21 +2,21 @@
 <h1 align="center"><b>Hi there, I'm Gustavo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Fullstack+Java+Engineer;Undergraduate+Math+Student;Oracle+Certified+Professional;AWS+Cloud+Practitioner+;High+Scalable+Soltutions+and;Low+code+addict" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=CF9FFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Java+Engineer%2C;Undergraduate+Math+Student%2C;Oracle+Certified+Professional%2C;AWS+Cloud+Practitioner+%2C;Well+Versed+in%3A;High+Scalable+Solutions+and;Concurrent+Cloud+Envrionments%2C;Low+code+addict." alt="Typing SVG" /></a>
 </p>
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 36px></picture> **About me**
+<!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 36px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- A passionate Self-taught Fullstack developer
+- Breaking LeetCode challenges at spare time
+- Constantly learner, 
+- Personal website [link](https://www.terato.me)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
@@ -32,8 +32,10 @@
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
+    ![Rust](https://img.shields.io/badge/Rust%20-%2314354C.svg?style=for-the-badge&logo=rust&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>   
     
 - **Front-End Development**:
@@ -136,8 +138,6 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
 </div>
 <br>
 <br>
@@ -148,6 +148,4 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
+Credit: [Abdul Khalid](https://github.com/0xabdulkhalid) -->

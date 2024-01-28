@@ -1,6 +1,6 @@
-
+<!--
 <h1 align="center"><b>Hi there, I'm Gustavo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+A
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=CF9FFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Java+Engineer%2C;Undergraduate+Math+Student%2C;Oracle+Certified+Professional%2C;AWS+Cloud+Practitioner+%2C;Well+Versed+in%3A;High+Scalable+Solutions+and;Concurrent+Cloud+Envrionments%2C;Low+code+addicted." alt="Typing SVG" /></a>
 </p>
@@ -67,3 +67,4 @@
 		</li>
 	</ul>
 </div>
+-->
